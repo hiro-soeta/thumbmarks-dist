@@ -1,0 +1,5 @@
+{
+  "version": "0.9.1",
+  "xpi": "https://hiro-soeta.github.io/thumbmarks-dist/orion/thumbmarks-v0.9.1.xpi",
+  "notes": "- 配布用の公開サイト（thumbmarks-dist）を追加。更新確認はトークンなしで行えるように\n- 更新画面の「インストール」は公開サイトの .xpi を開く（Orion がインストール画面を出すかの確認用）\n- Orion 自身の「自動でアップデート」が新しい版を見つけられるよう、更新情報の場所を拡張機能に記載"
+}

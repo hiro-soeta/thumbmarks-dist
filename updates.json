@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "thumbmarks@local.extension": {
+      "updates": [
+        {
+          "version": "0.9.1",
+          "update_link": "https://hiro-soeta.github.io/thumbmarks-dist/orion/thumbmarks-v0.9.1.xpi",
+          "update_hash": "sha256:3cbba476e699413656f7136f3f7e4a8706c13c19a987be7d4e7270852c6877e4"
+        }
+      ]
+    }
+  }
+}
