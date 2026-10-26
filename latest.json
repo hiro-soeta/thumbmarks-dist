@@ -1,5 +1,5 @@
 {
-  "version": "0.9.12",
-  "xpi": "https://hiro-soeta.github.io/thumbmarks-dist/orion/thumbmarks-v0.9.12.xpi",
-  "notes": "- 通常タブからプライベートで開いたとき（Orion は開いたタブの情報を返さない）に、開いたタブを探して覚えるように。これで「一覧へ戻る」と読んでいた位置の記録が、プライベートで開いたブックマークでも効く\n- タブ診断に、その経路（「タブを検索で特定」）を表示"
+  "version": "0.9.13",
+  "xpi": "https://hiro-soeta.github.io/thumbmarks-dist/orion/thumbmarks-v0.9.13.xpi",
+  "notes": "- 希望のタブ（プライベート／通常）で開けずにブラウザが別のモードで開いたときは、「プライベートで開けませんでした」と表示（黙って通常タブで開かない）\n- タブ診断に「（希望と違う）」の印"
 }

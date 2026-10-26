@@ -61,6 +61,11 @@
           "version": "0.9.12",
           "update_link": "https://hiro-soeta.github.io/thumbmarks-dist/orion/thumbmarks-v0.9.12.xpi",
           "update_hash": "sha256:6a289bf2522315eb7a35a5d97dc933f5f16e2447219b69490112af522eaf21df"
+        },
+        {
+          "version": "0.9.13",
+          "update_link": "https://hiro-soeta.github.io/thumbmarks-dist/orion/thumbmarks-v0.9.13.xpi",
+          "update_hash": "sha256:21e11e0d6b1837295aadf101c94a4d211e8066fc12a57c357af343bec2e5d4e0"
         }
       ]
     }
