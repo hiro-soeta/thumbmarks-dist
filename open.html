@@ -14,5 +14,5 @@ a{color:var(--accent)} .alt{display:none;color:var(--muted);font-size:14px}
 <div class="sp" id="sp"></div>
 <div id="t">一覧を開いています…</div>
 <div class="alt" id="alt">開かない場合は、Orion で開いているか、拡張機能が入っているかを確認してください。<br><a href="./">インストールはこちら</a></div>
-<script>setTimeout(function(){document.getElementById("alt").style.display="block";document.getElementById("sp").style.display="none";document.getElementById("t").textContent="";},2500);</script>
+<script>setTimeout(function(){if(document.documentElement.hasAttribute("data-tm-refused"))return;document.getElementById("alt").style.display="block";document.getElementById("sp").style.display="none";document.getElementById("t").textContent="";},2500);</script>
 </main></body></html>
